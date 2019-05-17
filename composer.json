@@ -1,0 +1,7 @@
+{
+  "name": "zentir/plugin-hcp-patient-report",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "v1.*"
+  }
+}
